@@ -1,0 +1,10 @@
+
+
+{
+    "password": "pbkdf2_sha256$260000$W6pzC9ZMQHvhzeiMCdVBkJ$Qgj7t+7h5CPwxEfrQqVUb5rpYREjq32fcfclxEm9Tbg=",
+    "password2": "pbkdf2_sha256$260000$W6pzC9ZMQHvhzeiMCdVBkJ$Qgj7t+7h5CPwxEfrQqVUb5rpYREjq32fcfclxEm9Tbg=",
+    "email": "simon@yahoo.com",
+    "company_name": "Muva",
+    "username": "muva",
+    "phone": "12121212121"
+}
